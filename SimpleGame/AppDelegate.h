@@ -15,6 +15,7 @@
 	UINavigationController *navController_;
 	
 	CCDirectorIOS	*director_;							// weak ref
+    // 这是一首简单的小情歌！！！
 }
 
 @property (nonatomic, retain) UIWindow *window;
